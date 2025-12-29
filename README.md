@@ -5,7 +5,9 @@ A privacy-first web app for tracking traumatic brain injury (TBI) symptoms over 
 [![Medical](https://img.shields.io/badge/Medical-Research%20Tool-blue)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Live Demo:** https://tbi-symptom-tracker.vercel.app  
+**Live Demo:** https://tbi-symptom-tracker.vercel.app/  
+**Vercel Project:** https://vercel.com/vincent-s-projects-352f4508/tbi-symptom-tracker  
+**Repo:** https://github.com/Vjp802/tbi-symptom-tracker  
 **Deploy:** [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Vjp802/tbi-symptom-tracker)
 
 > **Privacy note:** Your data stays on your device (localStorage). No accounts. No analytics. No cloud sync.
